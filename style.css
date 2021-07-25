@@ -16,7 +16,7 @@
     text-align: center;
     font-weight: bold;
   }
-  
+
   .personal-data-container {
     align-items: center;
     display: flex;    
@@ -33,7 +33,7 @@
     width: 178px;
   }
   
-  figure {
+  .avatar-container {
     padding-left: 30%;
     
   }
