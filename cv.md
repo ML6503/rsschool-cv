@@ -22,7 +22,10 @@ Years     | Description
 
 *****
 
-_Additional training_  
+_Additional training_ 
+
+2021 - until now
+[FE JS courses at RS School]
 
 2018 - until now  
 
