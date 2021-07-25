@@ -14,8 +14,9 @@
 
   .cv-head {
     text-align: center;
-    font-style: bold;
+    font-weight: bold;
   }
+  
   .personal-data-container {
     align-items: center;
     display: flex;    
@@ -76,13 +77,19 @@
     padding: 5px 0 5px 0;
   }
   
-  footer {
-    text-align: center;
+  .cv-footer {
+    text-align: center; 
+    background-color: lightgrey;  
   }
 
   .course-data {
     display: flex;
     align-items: center;
-    justify-content: space-around;
+    justify-content: space-around;  
+  }
+
+  .logo {
+    width: 70px;
+    height: 50px;
   }
   
